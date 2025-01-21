@@ -1,7 +1,7 @@
 # Movie_Reviews_Sentiment_Analysis
 
 ## Overview
-This project focuses on sentiment analysis using the Large Movie Review Dataset, employing a variety of machine learning techniques. It is part of a machine learning course project, where the goal is to clean the data, train, test, and evaluate different models for sentiment analysis. Both traditional and modern models are explored for training and testing. Contributions and suggestions for improvements are welcome.
+This project focuses on sentiment analysis using the Large Movie Review Dataset, employing a variety of machine learning techniques.The goal is to clean the data, train, test, and evaluate different models for sentiment analysis. Both traditional and modern models are explored for training and testing. Contributions and suggestions for improvements are welcome.
 
 ## Dataset
 The dataset consists of 50,000 IMDB movie reviews, split into 25,000 training and 25,000 testing reviews. The sentiment labels (positive and negative) are balanced across the dataset.
